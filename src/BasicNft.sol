@@ -23,3 +23,5 @@ contract BasicNft is ERC721 {
     // "https://ipfs.tech/ipfs/QmYXqTGDFSpovvtYiuodfdUsfbEtP89Ss8KDbZUuVW4Pw8"
   }
 }
+
+// contract 0x0BfDae04Baf8759289cC7a722E80f2CB50Fe1D90
